@@ -1,0 +1,9 @@
+1) Tic Tac Toe 
+    compile server.c : gcc -pthread server.c -o server
+    compile client.c : gcc client.c -o client
+    run server       : ./server
+    run client       : ./client
+
+2) yapp
+    compile yapp.c   : gcc yapp.c -o yapp
+    run yapp         : ./yapp x.x.x.x 
